@@ -61,7 +61,7 @@ Run this repo in Visual Studio and build it.
 
 CLONE THIS REPO:
 
-git clone https://github.com/positibo/robot-simulator.git
+git clone https://github.com/positibo/robot.simulator.git
 
 TO USE:
 
